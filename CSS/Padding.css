@@ -1,0 +1,13 @@
+.border{
+    width: 50%;
+    border: 2px solid rgb(232, 15, 58);
+    padding: 10;
+}
+.border1{
+    width: 90%;
+    border: 2px solid rgb(136, 131, 132);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,15 @@
+.name:hover{
+    color: brown;
+}
+.name:visited{
+    color: aqua;
+}
+.name:focus{
+    color: rgb(130, 10, 241);
+}
+.name:active{
+    color: burlywood;
+}
+.name:link{
+    color: chartreuse;
+}

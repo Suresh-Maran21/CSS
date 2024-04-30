@@ -1,0 +1,6 @@
+.image{
+    background-image: url(../CSS/images/Tomato.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}

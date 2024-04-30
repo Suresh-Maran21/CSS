@@ -1,0 +1,5 @@
+.name{
+    border: 5px thick thin 5px;
+    border-style: dashed;
+    border-color: cadetblue;
+}

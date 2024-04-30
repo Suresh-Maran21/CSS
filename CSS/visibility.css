@@ -1,0 +1,27 @@
+.box{
+    width: 50%;
+    border: 5px thick thic 5px;
+    border-style: solid;
+    border-color: cadetblue;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+ol{
+    background-color: rgb(245, 153, 153);
+    padding: 10px;
+    padding: 0 40px;
+
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+li:hover{
+    background-color: darkgray;
+}
+.dis{
+    visibility:visible;
+}
